@@ -1,2 +1,2 @@
 # go-accounting-ledger
-This is a spinoff of the accounting ledger except this time I am using GoLang.
+This is a spinoff of a basic calculator app except this time I am using GoLang.
